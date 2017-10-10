@@ -1,7 +1,7 @@
 //
 // Created by hasee on 2017/10/10.
 //
-#include "Computer.h"
+#include "include/Computer.h"
 
 Computer::Computer()
 {

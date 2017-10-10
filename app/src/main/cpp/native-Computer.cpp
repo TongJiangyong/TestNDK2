@@ -1,6 +1,7 @@
 #include <jni.h>
 #include <string>
-#include "computer/Computer.h"
+#include "computer/include/Computer.h"
+//这里的extern C好像一定要使用括号包括所有的函数，否则上面不能进行识别
 extern "C"{
 
 jstring
